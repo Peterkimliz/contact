@@ -7,5 +7,5 @@ import androidx.room.RoomDatabase
     version = 1
 )
 abstract class Database:RoomDatabase() {
-    abstract val dao:ContactDao
+//    abstract val dao:ContactDao
 }
